@@ -1,0 +1,19 @@
+/* Add margin-top and padding between the buttons */
+.upload-section .upload-buttons {
+    margin-top: 10px;
+    padding-top: 10px;
+    text-align: center;
+  }
+  
+  .upload-section .upload-buttons button {
+    margin: 5px;
+  }
+  /* asset.css */
+
+.upload-section .uploaded-image {
+    max-width: 100%; /* Set the maximum width to ensure it fits within the parent container */
+    max-height: 200px; /* Set the maximum height as desired */
+    display: block; /* Center the image horizontally */
+    margin: 0 auto; /* Center the image vertically */
+    padding: 10px; /* Add padding around the image, adjust as needed */
+  }

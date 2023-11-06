@@ -1,0 +1,8 @@
+.custom-collapse .ant-collapse-item-active {
+    /* background-color: #52c41a; */
+    background-color: #95de64;
+    /* background-color: #779bf6;  */
+    border-radius: 5px;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}

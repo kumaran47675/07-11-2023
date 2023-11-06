@@ -1,0 +1,21 @@
+/* *{
+    overflow-y: none;
+} */
+
+.logo{
+    width: 100%;
+    max-width: 250px;
+    height: 80px;
+}
+
+
+ .MainPageContent{
+    overflow: auto;
+    
+}
+ 
+/* .ant-layout-content{
+    overflow: auto;
+} */
+
+/* @media screen (max-width:) */

@@ -1,0 +1,37 @@
+.tableheader{
+    margin: 5px;
+    /* display: flex; */
+    position: sticky;
+    right: 0;
+    left:0;
+
+    
+}
+
+
+.tableheader h2{
+    flex:9;
+    width: 100%;
+}
+
+
+.tablebtn {
+    /* margin: 0 5px; */
+    /* display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width:100%; */
+    display: flex;
+    flex:1;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+
+.tablecontainer{
+    margin: 10px;
+    padding:10px;
+    text-align: center;
+    /* width:100%; */
+}

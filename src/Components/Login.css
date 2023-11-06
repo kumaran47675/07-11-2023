@@ -1,0 +1,41 @@
+.LoginHeader{
+    background-color: rgba(0,0,0,0.5);
+    display:flex;
+
+}
+
+.LoginMainClass{
+    height: calc(100vh - 85px);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LoginPage{
+    min-width: 250px;
+    width: calc(20vw);
+    padding: 20px;
+    background-color: rgba(0,0,0,0.1);
+    border: 1px solid black;
+    border-radius: 10px ;
+
+}
+
+.LoginButtonAlign{
+
+    width: 100%;
+}
+
+.LoginButton{
+
+    margin-top:  10px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.LoginButton:hover {
+    background-color: white !important;
+    color: black !important;
+    border: 1px solid black !important;
+  }
